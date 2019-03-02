@@ -5,3 +5,4 @@ stargan_both/
 **.pyc
 **.swp
 **/.DS_Store
+**.sh
